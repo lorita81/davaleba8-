@@ -1,0 +1,105 @@
+table,td,tr{
+border-collapse: collapse; 
+ border: 1px solid;
+ border-color: #DADADA;
+
+}
+
+
+ th{
+
+    background: #DADADA;
+ }
+ .ID{
+    width: 72PX;
+    height: 57PX;
+
+}
+.Title{
+text-align: left;
+padding-left: 20px;
+
+}
+.num{
+    width: 9px;
+    height: 22px;
+    font-family: Inter;
+font-size: 15px;
+font-weight: 700;
+line-height: 18px;
+text-align: center;
+
+}
+.text{
+    width: 401px;
+    height: 22px;
+    font-family: Inter;
+font-size: 15px;
+font-weight: 500;
+line-height: 18px;
+padding-left: 22px;
+padding-right: 20px;
+
+
+}
+.date{
+    width: 86px;
+    height: 22px;
+    font-family: Inter;
+font-size: 15px;
+font-weight: 500;
+line-height: 18px;
+padding-left: 97px;
+padding-right: 93px;
+
+}
+.conteiner{
+    width: 368px;
+    height: 57px;
+}
+.booton1{
+    background: #FFD43A;
+    height: 36px;
+    width: 115px;
+    border-radius: 10px;
+    margin-top: 10px; 
+    display:inline-block;
+
+
+}
+.edit{
+    width: 34px;
+    height: 16px;
+    font-family: Inter;
+font-size: 15px;
+margin-left: 10px;
+margin-top: 10px;
+display: flex;
+align-items: center;
+
+
+
+}
+.delete{
+    width: 34px;
+    height: 16px;
+    font-family: Inter;
+font-size: 15px;
+margin-left: 10px;
+margin-top: 10px;
+display: flex;
+align-items: center;
+color:#FFFFFF;
+
+}
+.booton2{
+    background-color: #E84949;
+    height: 36px;
+width: 115px;
+left: 1128px;
+border-radius: 10px;
+margin-right: 20px;
+display: inline-block;
+
+}
+
